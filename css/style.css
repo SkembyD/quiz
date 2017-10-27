@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+}
+
+img{
+  background: url("../images/game.jpg")no-repeat cover;
+  width: 50%;
+  height: 30px;
+}
+main .container-fluid{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: #F60;
+  font-size: 50px;
+  font-family: cursive;
+}
+input{
+  width:40%;
+  height: 4%;
+}
+.button{
+  width: 10%;
+}
+.questions{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+p{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
